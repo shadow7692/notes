@@ -79,9 +79,9 @@ params:
 
   socialIcons:
     - name: instagram
-      url: "https://instagram.com/"
+      url: "https://instagram.com/npv_x"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/shadow7692/notes"
 
   analytics:
     google:
@@ -97,7 +97,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/shadow7692/notes/content"
     Text: "Edit" # edit text
     appendFilePath: true # to append file path to Edit link
 
