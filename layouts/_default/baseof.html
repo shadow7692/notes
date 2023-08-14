@@ -4,20 +4,24 @@
 <head>
     {{- partial "head.html" . }}
     <link rel="stylesheet" href="/styles.css">
+    <link rel="stylesheet" href="/overlay.css">
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha384-tsQFqpEReu7ZLhBV2VZlAu7zcOV+rXbYlF2cqB8txI/8aZajjp4Bqd+V6D5IgvKT" crossorigin="anonymous"></script>
+    <script defer src="/overlay.js"></script>
 </head>
 
-<body class="
-{{- if (or (ne .Kind `page` ) (eq .Layout `archives`) (eq .Layout `search`)) -}}
-{{- print "list" -}}
-{{- end -}}
-{{- if eq site.Params.defaultTheme `dark` -}}
-{{- print " dark" }}
-{{- end -}}
-" id="top">
+<body class="{{- if (or (ne .Kind `page` ) (eq .Layout `archives`) (eq .Layout `search`)) -}}{{- print "list" -}}{{- end -}}{{- if eq site.Params.defaultTheme `dark` -}}{{- print " dark" }}{{- end -}}" id="top">
     {{- partialCached "header.html" . .Page -}}
     <main class="main">
         {{- block "main" . }}{{ end }}
     </main>
+
+    <div class="overlay" id="overlay">
+        <div class="overlay-content">
+            <img src="" alt="Image Overlay" class="overlay-image">
+            <div class="overlay-caption"></div>
+        </div>
+    </div>
+
     {{ partialCached "footer.html" . .Layout .Kind (.Param "hideFooter") (.Param "ShowCodeCopyButtons") -}}
 </body>
 

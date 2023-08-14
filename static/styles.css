@@ -1,11 +1,13 @@
+/* styles.css */
+
 .figure {
     width: 200px;
     padding: 10px;
-    display: inline-block;
+    /* display: inline-block; */
     vertical-align: top;
     transition: all .2s ease-in-out;
 }
 
-.figure:hover {
-    transition: all .2s ease-in-out;
+.figure img {
+    display: block;
 }
