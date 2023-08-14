@@ -8,13 +8,13 @@ tags: ["dyspnoea", "cough", "chest pain"]
 
 ### Aetiology
 
-Excess fluid accumulation between the parietal and visceral pleural surfaces of the thorax. Classified as either **transudative** (less than 30g/L protein) or **exudative** (more than 30g/L protein).
+Excess fluid accumulation in the pleural cavity (space between the parietal and visceral pleural surfaces) of the thorax. Classified as either **transudative** (less than 30g/L protein) or **exudative** (more than 30g/L protein).
 
-- Common **transudate** causes include heart failure, hypoalbuminaemia (e.g. liver disease, nephrotic syndrome, malabsorption), hypothyroidism.
+- Common **transudate** causes include heart failure, hypoalbuminaemia (e.g. liver disease, nephrotic syndrome, malabsorption), hypothyroidism, Meigs' syndrome.
 
-- Common **exudate** causes include infection (e.g. pneumonia, tuberculosis), cancer (e.g. lung cancer, mesothelioma), connective tissue disorders, pulmonary embolism.
+- Common **exudate** causes include infection (e.g. pneumonia, tuberculosis), malignancy (e.g. lung cancer, mesothelioma), connective tissue disorders, pulmonary embolism, pancreatitis, Dressler's syndrome.
 
-**Light's criteria** is used to differentiate between borderline cases, when protein is 25-35 g/L.
+**Light's criteria** is used to differentiate between borderline cases, when protein is 25-35g/L.
 
 ### Clinical Presentation
 
