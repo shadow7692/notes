@@ -18,7 +18,7 @@ Accumulation of air in the pleural cavity (space between the parietal and viscer
 
 - **Iatrogenic pneumothorax** occurs as a complication of medical procedures (e.g. thoracentesis, central venous catheter placement, mechanical ventilation, lung biopsy).
 
-- **Tension pneumothorax** is a life-threatening condition 
+- **Tension pneumothorax** is a life-threatening condition in which a one-way valve is created that allows air to be drawn in to the pleural space during inspiration, and trapping air during expiration. This pressure is enough to deviate the mediastinum and cause cardiorespiratory arrest.
 
 **Light's criteria** is used to differentiate between borderline cases, when protein is 25-35g/L.
 
@@ -43,9 +43,15 @@ Tension pneumothorax may present with severe respiratory distress, tracheal devi
 
 ### Management
 
-Spontaenous pneumothorax is managed with aspiration and/or chest drain. 
+Spontaenous pneumothorax is managed with **aspiration**.
+- If no dyspnoea and <2cm air rim, consider discharge with follow-up.
+- If apiration fails twice, a **chest drain** is required.
 
-Video-assisted thoracoscopic surgery (VATS) considered for recurrent pneumothorax to allow for pleurodesis with [bullectomy](https://www.svhlunghealth.com.au/procedures/procedures-treatments/bullectomy).
+**Video-assisted thoracoscopic surgery (VATS)** is considered for recurrent pneumothorax or failed chest drain. 
+- Abrasive or chemical **pleurodesis** to seal the pleural space by causing an inflammatory reaction.
+- **Pleurectomy** to remove the pleura.
+
+Tension pneumothorax is managed with **needle decompression**, by inserting a large bore (14-16 gauge) cannula into the second intercostal space in the midclavicular line.
 
 Discharge advice includes smoking cessation, avoid flying for two-weeks, and scuba diving permaban unless bilateral pleurectomy with normal postoperative lung function and CT.
 ​
