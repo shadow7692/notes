@@ -1,0 +1,21 @@
+{{ $targetID := .Get "target" }}
+<button class="reveal-button" data-target="{{ $targetID }}">Toggle</button>
+<div id="{{ $targetID }}" style="display: none;">{{ .Inner }}</div>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    var button = document.querySelector('.reveal-button[data-target="{{ $targetID }}"]');
+    button.addEventListener("click", function() {
+        var targetId = button.getAttribute("data-target");
+        revealDiv(targetId);
+    });
+});
+
+function revealDiv(targetId) {
+    var div = document.getElementById(targetId);
+    if (div.style.display === "none") {
+        div.style.display = "block";
+    } else {
+        div.style.display = "none";
+    }
+}
+</script>

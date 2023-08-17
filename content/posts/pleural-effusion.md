@@ -38,7 +38,7 @@ Classic examination findings include dullness to percussion, reduced breath soun
 
 ### Management
 
-Approach based on underlying cause, options include:
+Approach is based on the underlying cause, and options include:
 - Recurrent aspiration.
 - [Indwelling pleural catheter (IPC)](https://www.guysandstthomas.nhs.uk/health-information/indwelling-pleural-catheter-ipc).
 - [Pleurodesis](https://www.guysandstthomas.nhs.uk/health-information/pleurodesis-using-chest-drain "Chest drain").
