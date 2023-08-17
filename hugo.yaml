@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://superlative-sorbet-1886a3.netlify.app/"
 title: Nil's Notes
 paginate: 5
 theme: PaperMod
@@ -22,7 +22,7 @@ params:
   keywords: [Blog, Portfolio, PaperMod]
   author: "Nil Varu"
   # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  # images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: light # auto, dark, light
   disableThemeToggle: false
@@ -46,21 +46,21 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
+    # favicon: "<link / abs url>"
+    # favicon16x16: "<link / abs url>"
+    # favicon32x32: "<link / abs url>"
+    # apple_touch_icon: "<link / abs url>"
+    # safari_pinned_tab: "<link / abs url>"
 
   label:
     text: "Nil's Notes"
     # icon: /apple-touch-icon.png
-    iconHeight: 35
+    # iconHeight: 35
 
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: Hello
+    title: All your notes. Organised.
     subtitle: "Personal collection of notes for every medical condition listed on the MLA content map."
     imageUrl: ""
     imageWidth: 120
