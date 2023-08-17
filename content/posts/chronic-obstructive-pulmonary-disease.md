@@ -23,6 +23,8 @@ Common symptoms include dyspnoea (initially exertional breathlessness), wheeze a
 - Full blood count to exclude secondary polycythaemia.
 - BMI calculation.
 
+{{<figure class="figure" src="/copd-1.png" caption="Chest X-ray displaying hyperinflation and diaphragm flattening indicating COPD.">}}
+
 ### Management
 
 General management involves smoking cessation, influenza and pneumococcal vaccination and pulmonary rehabilitation (exercise and education programme). 
